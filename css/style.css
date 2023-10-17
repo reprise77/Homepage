@@ -5,8 +5,8 @@ a {
     transition: opacity .25s ease;
 }
 a:hover {
-    color: #ffc0cb;
-    opacity: .6;
+    color: yellow;
+    opacity: .7;
 }
 
 /* Header стили */
@@ -63,19 +63,19 @@ a:hover {
 .header-center::before{
     content: '';
     position: absolute;
-    border: 1px solid white;
-    width: 100%;
+    border: 5px solid white;
+    width: 85%;
     height: 300px;
     border-radius: 10px;
-    animation: glow 2s infinite alternate;
+    animation: glow 1.5s infinite alternate;
 }
 
 @keyframes glow {
     from {
-        box-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
+        box-shadow: 0 0 25px rgba(255, 255, 0);
     }
     to {
-        box-shadow: 0 0 30px rgba(255, 255, 255, 0.9);
+        box-shadow: 0 0 35px rgba(255, 255, 0);
     }
 }
 
