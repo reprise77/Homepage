@@ -29,7 +29,6 @@ a:hover {
 }
 
 .logo {
-    margin-right: 1000px;
     font-size: 34px;
 }
 
@@ -90,7 +89,7 @@ a:hover {
 
 .description {
     display: inline-block;
-    width: 1500px;
+    width: 81vw;
     font-size: 1.3vw;
     letter-spacing: 0.1px;
     white-space: nowrap;
