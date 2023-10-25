@@ -17,5 +17,6 @@
 Земсков Семён — Front-End Engineer.
 
 ## Скриншоты сайта
-![https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_1.PNG]
-![https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_2.PNG]
+![Header Screenshot](https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_1.PNG)
+
+![About-me Screenshot](https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_2.PNG)
