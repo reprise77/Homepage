@@ -15,3 +15,7 @@
 
 ## Команда проекта
 Земсков Семён — Front-End Engineer.
+
+## Скриншоты сайта
+![https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_1.PNG]
+![https://github.com/reprise77/Homepage/blob/main/static/img/screenshot_2.PNG]
